@@ -1,4 +1,3 @@
-# ResumeIQ
 
 # ResumeIQ – ATS Resume & Job Description Matcher
 
