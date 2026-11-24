@@ -1,0 +1,21 @@
+Meera Nair
+meera.nair@example.com | Kochi, India
+
+OBJECTIVE
+Frontend developer who enjoys turning designs into clean, responsive interfaces.
+
+SKILLS
+HTML5, CSS3, JavaScript (ES6), React, Bootstrap, Responsive Design, Git, GitHub, REST API integration
+
+EXPERIENCE
+Frontend Developer, PixelWorks Studio (2022 - Present)
+- Built reusable React components for a booking dashboard used by 20+ clinics.
+- Implemented responsive layouts with CSS3 and Bootstrap that work on phones, tablets and desktops.
+- Consumed REST APIs and added loading and error states to all data views.
+- Collaborated with designers in Figma and used Git branches for feature work.
+
+Web Developer Intern, StartHub (2021)
+- Created landing pages with HTML and CSS and added interactivity using JavaScript.
+
+EDUCATION
+BCA, 2021

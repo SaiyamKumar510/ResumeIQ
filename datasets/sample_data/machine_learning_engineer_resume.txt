@@ -1,0 +1,21 @@
+Vikram Singh
+vikram.singh@example.com | Hyderabad, India
+
+SUMMARY
+ML engineer with 2 years of experience building classification and NLP models.
+
+SKILLS
+Python, Machine Learning, Deep Learning, NLP, Scikit-learn, TensorFlow, Keras, Pandas, NumPy, SQL, Jupyter, Flask, Git, Statistics, Data Structures, Algorithms
+
+EXPERIENCE
+Machine Learning Engineer, DataLeaf AI (2023 - Present)
+- Trained text classifiers with Scikit-learn and TensorFlow that reached production for ticket routing.
+- Built feature pipelines in Pandas and NumPy and tracked experiments in Jupyter notebooks.
+- Served models behind a Flask API and wrote documentation for the support team.
+- Queried training data from the warehouse using SQL.
+
+Data Science Intern, Insightly (2022)
+- Built a churn prediction baseline and compared models with cross-validation.
+
+EDUCATION
+M.Tech in Computer Science, 2022

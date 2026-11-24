@@ -1,0 +1,16 @@
+Java Backend Developer
+
+Our payments team is looking for a Java Backend Developer to help us scale transaction-processing services used by millions of customers.
+
+What you will do
+- Build microservices in Java using Spring Boot and Hibernate.
+- Design and document REST APIs consumed by web and mobile clients.
+- Work with MySQL or PostgreSQL databases and write efficient SQL.
+- Write unit tests with JUnit and maintain high code quality.
+- Package services with Docker and deploy to Kubernetes on AWS using Jenkins CI/CD pipelines.
+
+What we are looking for
+- Strong command of Java and object-oriented programming (OOP).
+- Solid knowledge of data structures and algorithms.
+- Experience with Git and Agile delivery.
+- Understanding of DBMS concepts such as indexing and transactions.

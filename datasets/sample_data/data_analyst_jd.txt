@@ -1,0 +1,16 @@
+Data Analyst
+
+Our growth team is hiring a Data Analyst to turn raw data into decisions.
+
+Responsibilities
+- Write SQL queries to extract and analyse data from MySQL and PostgreSQL databases.
+- Perform data cleaning and data analysis in Python using Pandas and NumPy.
+- Build dashboards in Tableau or Power BI and present insights to stakeholders.
+- Apply statistics to measure the impact of product changes, including A/B testing.
+- Create charts with Matplotlib for ad-hoc reports and use Excel for quick analysis.
+- Help maintain ETL pipelines that feed our reporting tables.
+
+Requirements
+- 1+ years of experience in an analytics role.
+- Strong SQL and Excel skills.
+- Ability to communicate findings clearly to non-technical colleagues.

@@ -1,0 +1,23 @@
+Ananya Iyer
+ananya.iyer@example.com | Bengaluru, India
+
+PROFILE
+Java developer with 4 years of experience in enterprise backend systems.
+
+TECHNICAL SKILLS
+Languages: Java, SQL
+Frameworks: Spring Boot, Hibernate
+Databases: MySQL, Oracle
+Tools: Git, Maven, Docker, JUnit
+Core: OOP, Data Structures, Algorithms, DBMS, Operating Systems
+
+EXPERIENCE
+Software Engineer, FinServe Technologies (2020 - Present)
+- Developed Spring Boot services that expose REST APIs for loan-origination workflows.
+- Used Hibernate for persistence and tuned SQL queries on MySQL, cutting report time by 40%.
+- Wrote JUnit tests and maintained code coverage above team targets.
+- Packaged applications with Docker for the QA environment.
+- Took part in Agile ceremonies and mentored two new joiners.
+
+EDUCATION
+B.E. in Information Technology, 2020

@@ -1,0 +1,21 @@
+Sneha Kulkarni
+sneha.kulkarni@example.com | Mumbai, India
+
+PROFILE
+Analytics professional with 2 years of experience in retail reporting.
+
+SKILLS
+SQL, MySQL, Excel (pivot tables, VLOOKUP), Power BI, Python, Pandas, NumPy, Matplotlib, Data Cleaning, Data Analysis, Statistics
+
+EXPERIENCE
+Business Data Analyst, UrbanMart Retail (2023 - Present)
+- Wrote SQL queries on MySQL to analyse sales and inventory across 40 stores.
+- Cleaned and merged monthly sales files with Python and Pandas, saving about 6 hours of manual work per week.
+- Built Power BI dashboards for regional managers and presented weekly insights.
+- Used descriptive statistics and Matplotlib charts to explain seasonal demand.
+
+MIS Executive, Trident Services (2022 - 2023)
+- Prepared daily reports in Excel.
+
+EDUCATION
+B.Sc. in Statistics, 2022

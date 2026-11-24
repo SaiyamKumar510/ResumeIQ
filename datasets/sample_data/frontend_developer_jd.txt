@@ -1,0 +1,16 @@
+Frontend Developer
+
+We are a design-led product company looking for a Frontend Developer to craft fast, accessible and responsive web interfaces.
+
+Responsibilities
+- Build user interfaces with React and Redux.
+- Write modern JavaScript (ES6+) and TypeScript.
+- Turn Figma designs into pixel-perfect HTML5 and CSS3, using Tailwind CSS or Bootstrap.
+- Ensure responsive design across mobile, tablet and desktop.
+- Integrate REST APIs and handle loading and error states gracefully.
+- Test components with Jest and collaborate through Git.
+
+Requirements
+- 2+ years of experience building production web applications.
+- Strong knowledge of HTML, CSS and JavaScript.
+- Experience with React; Redux and TypeScript are highly desirable.

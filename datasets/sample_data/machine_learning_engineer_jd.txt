@@ -1,0 +1,16 @@
+Machine Learning Engineer
+
+We are looking for a Machine Learning Engineer to take models from notebook to production.
+
+Responsibilities
+- Develop and evaluate machine learning and deep learning models using Python, Scikit-learn, TensorFlow or PyTorch.
+- Prepare data with Pandas and NumPy and engineer useful features.
+- Build natural language processing (NLP) components such as text classifiers.
+- Query data with SQL and track experiments in Jupyter notebooks.
+- Package models with Docker and deploy them on AWS.
+- Use Git and write clear documentation.
+
+Requirements
+- Strong foundation in statistics, data structures and algorithms.
+- Experience taking at least one model to production.
+- Familiarity with Kubernetes is a plus.

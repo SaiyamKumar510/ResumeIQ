@@ -1,0 +1,17 @@
+Full Stack Developer
+
+Join our small product team to build features end to end, from the database to the browser.
+
+What you will do
+- Build single-page applications with React, HTML and CSS.
+- Develop server-side services with Node.js and Express.js.
+- Store and query application data in MongoDB.
+- Design and consume REST APIs.
+- Write JavaScript and TypeScript across the stack.
+- Containerise applications with Docker and deploy them to AWS using CI/CD.
+- Use Git and work in an Agile team.
+
+Requirements
+- 2+ years of full stack development experience.
+- Strong JavaScript skills and experience with the MERN stack.
+- Comfort debugging both frontend and backend issues.

@@ -1,0 +1,23 @@
+Karan Malhotra
+karan.malhotra@example.com | Delhi, India
+
+SUMMARY
+Full stack developer comfortable owning features from database to UI.
+
+SKILLS
+JavaScript, React, Node.js, Express.js, MongoDB, HTML, CSS, REST APIs, Docker, Git, GitHub, Agile
+
+PROJECTS
+Expense Tracker (MERN)
+- React front end with charts; Node.js and Express.js REST APIs; MongoDB for storage.
+- Added JWT-based login and role-based access to the API.
+- Containerised the app with Docker for local development.
+
+Team Task Board
+- Built a Kanban-style board in React with drag and drop.
+- Implemented REST endpoints with Express.js and stored boards in MongoDB.
+
+EXPERIENCE
+Full Stack Developer Intern, CloudNest (2023)
+- Fixed UI bugs in React and optimised MongoDB queries.
+- Followed Agile practices and used Git for collaboration.

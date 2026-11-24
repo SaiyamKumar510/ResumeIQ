@@ -1,0 +1,22 @@
+Rohan Verma
+rohan.verma@example.com | github.com/rohan-example | Pune, India
+
+SUMMARY
+Backend developer with 3 years of experience building web services in Python.
+
+SKILLS
+Python, Django, Flask, REST APIs, MySQL, SQLite, Git, GitHub, Docker, Linux, pytest, Agile, Data Structures, Algorithms
+
+EXPERIENCE
+Python Developer, BrightCart Pvt. Ltd. (2022 - Present)
+- Built and maintained REST APIs in Django serving an e-commerce mobile app.
+- Reduced average API response time by caching frequent queries and tuning MySQL indexes.
+- Containerised the order service with Docker and wrote unit tests with pytest.
+- Worked in two-week Agile sprints and reviewed teammates' pull requests on GitHub.
+
+Junior Software Engineer, Nimbus Infotech (2021 - 2022)
+- Developed internal tools in Flask for report generation.
+- Automated data clean-up scripts in Python.
+
+EDUCATION
+B.Tech in Computer Science, 2021
